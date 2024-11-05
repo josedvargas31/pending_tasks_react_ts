@@ -39,8 +39,9 @@ const PendingTaskts = () => {
 					Agrega una nueva tarea! 🤘🏻
 				</h2>
 			</div>
-			<div className="md:flex-row md:justify-center ">
-				<div className="flex justify-center py-5">
+			<div className="md:flex-row md:justify-center">
+				<div className="flex flex-col items-center py-5">
+					<label className="text-gray-600 text-2xl font-bold mb-2">Tarea</label>
 					<input
 						className="rounded-lg border-2 p-4 border-gray-500 w-4/12"
 						type="text"
