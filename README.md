@@ -22,7 +22,7 @@ First, run the development server:
 
 This will start the project at http://localhost:3000
 
-You can start editing the page by modifying componets/App.tsx. The page auto-updates as you edit the file.
+You can start editing the page by modifying `componets/App.tsx`. The page auto-updates as you edit the file.
 
 ## Learn More
 
