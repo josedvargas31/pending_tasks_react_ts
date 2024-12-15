@@ -34,6 +34,8 @@ To learn more about the technologies used in this project, take a look at the fo
 
 You can check out [the microsoft / TypeScript GitHub repository ](https://github.com/microsoft/TypeScript) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deploying to GitHub Pages
 
-You can deploy this project on [Vercel](https://vercel.com/) or any other hosting service that supports React applications.
+You can deploy this project to [GitHub Pages](https://pages.github.com/), which is a free hosting service provided by GitHub for static websites.
+
+For more information on deploying to GitHub Pages, see [gh-pages](https://github.com/gitname/react-gh-pages).
