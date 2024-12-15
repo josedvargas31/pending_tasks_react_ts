@@ -3,7 +3,7 @@ import PendingTaskts from "./components/PendingTasks";
 
 function App() {
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename="/pending_tasks_react_ts">
 			<Routes>
 				<Route path="/" element={<PendingTaskts />} />
 			</Routes>

@@ -18,7 +18,7 @@ const PendingTaskts = () => {
 			<header className="p-2 border-b bg-white shadow flex justify-between items-center">
 				<img
 					className="rounded-xl w-12"
-					src="/logoD.svg"
+					src="/pending_tasks_react_ts/logoD.svg"
 					alt="Imagen de registro"
 				/>
 				<div className="flex justify-center items-center">
